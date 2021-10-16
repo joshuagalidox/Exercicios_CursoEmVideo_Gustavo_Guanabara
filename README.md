@@ -1,5 +1,7 @@
 # Exercícios Curso Python
- ### Ex001
+ Exercícios propostos no curso do Professor Gustavo Guanabara na plataforma Curso em Vídeo ([www.cursoemvideo.com.br](https://www.cursoemvideo.com/)) 
+
+### Ex001
 
 Crie um programa que escreva "Ola, mundo!" na tela
 
