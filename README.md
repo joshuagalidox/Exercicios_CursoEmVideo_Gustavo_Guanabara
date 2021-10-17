@@ -142,3 +142,35 @@ Ex.: Ana Maria de Souza
 Primeiro nome = Ana
 
 Ultimo nome = Souza
+
+### Ex028
+
+Escreva um programa que faça o computador 'pensar' em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+
+### Ex029
+
+Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por km acima do limite.
+
+### Ex030
+
+Crie um programa que leia um numero inteiro qualquer e mostre na tela se ele é par ou impar
+
+### Ex031
+
+Desenvolva um programa que pergunte a distanca de uma viagem em KM. Calcule o preco da passagem, cobrando R$0,50 por KM para viagens de até 200km e R$0,45 para viagens mais longas.
+
+### Ex032
+
+Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
+
+### Ex033
+
+Faça um programa que leia tres numeros e mostre qual é o maior e qual é o menor
+
+### Ex034
+
+Escreva um programa que pergunte o salario de um funcionário e calcule o valor de seu aumento. Para salarios superiores a R$1.250, calcule um aumento de 10%. Para inferiores ou iguais, o aumento é de 15%.
+
+### Ex035
+
+Desenvolva um programa que leia o comprimento de tres retas e diga ao usuario se elas podem ou nao formar um triangulo. (pesquisar principio matematico)
