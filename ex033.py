@@ -5,4 +5,5 @@ n3 = int(input('Digite o terceiro numero: '))
 
 l = [n1, n2, n3]
 l.sort()
-print(l)
+print('\nO maior dos numeros digitados é o {} .\n'.format(l[2]))
+print('O menor dos numeros digitados é o {} .\n'.format(l[0]))

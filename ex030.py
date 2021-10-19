@@ -2,4 +2,4 @@
 
 
 n=int(input('Digite um número: '))
-print('Voce escolheu um numero par' if (n %2) ==0 else 'Voce escolheu um mnúmero ímpar' )
+print('Voce escolheu um numero par' if (n %2) ==0 else 'Voce escolheu um número ímpar' )
