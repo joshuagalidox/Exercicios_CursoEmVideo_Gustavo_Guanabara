@@ -174,3 +174,82 @@ Escreva um programa que pergunte o salario de um funcionário e calcule o valor 
 ### Ex035 - Dá pra formar um triangulo?
 
 Desenvolva um programa que leia o comprimento de tres retas e diga ao usuario se elas podem ou nao formar um triangulo. (pesquisar principio matematico)
+
+### Ex036
+
+Escreva um programa para aprovar o emprestimo bancario para a compra de uma casa. O programa vai perguntar o valor da casa, o salario do comprador e em quantos  anos ele vai pagar. Calcule o valor da prestaçao mensal, sabendo que ela nao pode exceder 30% do salario ou entao o emprestimo sera negado
+
+### Ex037
+
+Escreva um programa que leia um numero inteiro qualquer e peça para o usuario escolher qual sera a base de conversao:
+
+1. para binário
+2. para octal
+3. para hexadecimal
+
+### Ex038
+
+Escreva um programa que leia dois numeros inteiros e compare-os, mostrando na tela uma mensagem:
+
+- O primeiro valor é maior
+- O segundo valor é maior
+- Nao existe valor maior, os dois sao iguais
+
+### Ex039
+
+Faça um programa que leia o ano de nascimento de um jove e informa, de acordo com sua idade:
+
+- Se ele ainda vai se alistar no serviço militar
+- Se é a hora de se alistar
+- Se ja passou do tempo de alistamento
+
+Seu programa tambem devera mostrar o tempo que falta ou que passou do prazo
+
+### Ex040
+
+Crie um programa que eia duas notas de um aluno e calcule sua media, mostrando uma mensagem no final, de acordo com a media atingida:
+
+- Media abaixo de 5.0: REPROVADO
+- Media entre 5.0 e 6.9: RECUPERACAO
+- Media 7.0 ou superior: APROVADO
+
+### Ex041
+
+A Confederaçao NAcional de Nataçao precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria de acordo com a idade:
+
+- Ate 9 anos: Mirim
+- Até 14 anos: Infantil
+- Até 19 anos: Junior
+- Até 20 anos: Senior
+- Acima: Master
+
+### Ex042
+
+Refaça o desafio 035 dos triangulos, acrescentando o recurso de mostrar que tipo de triangulo será formado:
+
+- Equilatero: todos os lados iguais
+- Isosceles: dois lados iguais
+- Escaleno: todos os lados diferentes
+
+### Ex043
+
+Desenvolva uma lógica que leia o peso e aaltura de uma pessoa, calcule o seu IMC e mostre seu status, de acordo com a tabela abaixo: 
+
+- Abaixo de 18.5: Abaixo do peso
+- Entre 18.5 e 25: Peso ideal
+- Entre 25 até 30: Sobrepeso
+- 30 até 40: Obesidade
+- Acima de 40: Obesidade mórbida
+
+### Ex044
+
+Elabore um programa que calcule o valor a ser pago por um produto, conksiderando o seu preco normal e condicao de pagamento:
+
+- a vista dinheiro / cheque: 10% de desconto
+- a vista no cartao: 5% de desconto
+- em até 2x no cartao: preço normal
+- 3x ou mais no cartão: 20% de juros
+
+### Ex045
+
+Crie um programa que faça o comptador jogar Jokenpo com voce
