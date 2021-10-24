@@ -9,7 +9,6 @@ podem ou nao formar um triangulo. (pesquisar principio matematico)'''
 '''Condiçoes: Dados três segmentos de reta distintos, se a soma das medidas de dois deles é sempre 
 maior que a medida do terceiro, então, eles podem formar um triângulo.'''
 
-print()
 m1 = float(input('{}Digite a primeira medida: '.format('\n')))
 m2 = float(input('{}Digite a segunda medida: '.format('\n')))
 m3 = float(input('{}Digite a terceira medida: '.format('\n')))
