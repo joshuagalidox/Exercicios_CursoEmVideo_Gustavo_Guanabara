@@ -15,9 +15,9 @@ m3 = float(input('{}Digite a terceira medida: '.format('\n')))
 
 if (m1 + m2) > m3 and (m1+m3) > m2 and (m2 + m3) > m1:
   print('{}Com as medidas que você propôs, É POSSÍVEL formar um triângulo'.format('\n'))
-  if m1 == m2 ==m3:
+  if m1 == m2 == m3:
     print('{}O triangulo formado por essas tres medidas seria um TRIANGULO EQUILATERO.{}'.format('\n', '\n'))
-  elif m1 != m2 != m3:
+  elif m1 != m2 != m3 and m1 != m2 and m1 != m3 and m2 != m3:
     print('{}O triangulo formado por essas tres medidas seria um TRIANGULO ESCALENO.{}'.format('\n', '\n'))
   else:
     print('{}O triangulo formado por essas tres medidas seria um TRIANGULO ISÓSCELES.{}'.format('\n', '\n'))

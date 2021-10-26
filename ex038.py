@@ -3,7 +3,7 @@
 - O segundo valor é maior
 - Nao existe valor maior, os dois sao iguais'''
 
-n1 = int(input('\nDigite o primeiro número:'))
+n1 = int(input('\nDigite o primeiro número: '))
 n2 = int(input('\nDigite o segundo número: '))
 
 if n1 > n2 :

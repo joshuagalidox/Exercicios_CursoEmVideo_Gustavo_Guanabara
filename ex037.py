@@ -12,11 +12,11 @@ b = str(bin(num))
 o = str(oct(num))
 x = str(hex(num))
 if opc == 1:
-  print('\nO número {} convertido para a base binaria é representado como {}'.format(num, b))
+  print('\nO número {} convertido para a base binaria é representado como {}'.format(num, b [2: ]))
 elif opc == 2:
-  print('\nO número {} convertido para a base octal é representado como {}'.format(num, o))
+  print('\nO número {} convertido para a base octal é representado como {}'.format(num, o [2: ]))
 elif opc == 3:
-  print('\nO número {} convertido para a base hexadecimal é representado como {}'.format(num, x))
+  print('\nO número {} convertido para a base hexadecimal é representado como {}'.format(num, x [2: ]))
 else:
   print('\nOpçao inválida\n')
 print('\nFIM\n')
