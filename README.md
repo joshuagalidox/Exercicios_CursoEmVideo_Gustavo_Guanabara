@@ -1,5 +1,5 @@
 # Exercícios Curso Python
- Exercícios propostos no curso do Professor Gustavo Guanabara na plataforma Curso em Vídeo ([www.cursoemvideo.com.br](https://www.cursoemvideo.com/)) 
+Exercícios propostos no curso do Professor Gustavo Guanabara na plataforma Curso em Vídeo ([www.cursoemvideo.com.br](https://www.cursoemvideo.com/)) 
 
 ### Ex001 - Ola, Mundo!
 
@@ -175,11 +175,11 @@ Escreva um programa que pergunte o salario de um funcionário e calcule o valor 
 
 Desenvolva um programa que leia o comprimento de tres retas e diga ao usuario se elas podem ou nao formar um triangulo. (pesquisar principio matematico)
 
-### Ex036
+### Ex036 - Aprova o financiamento?
 
 Escreva um programa para aprovar o emprestimo bancario para a compra de uma casa. O programa vai perguntar o valor da casa, o salario do comprador e em quantos  anos ele vai pagar. Calcule o valor da prestaçao mensal, sabendo que ela nao pode exceder 30% do salario ou entao o emprestimo sera negado
 
-### Ex037
+### Ex037 - Conversor de bases
 
 Escreva um programa que leia um numero inteiro qualquer e peça para o usuario escolher qual sera a base de conversao:
 
@@ -187,7 +187,7 @@ Escreva um programa que leia um numero inteiro qualquer e peça para o usuario e
 2. para octal
 3. para hexadecimal
 
-### Ex038
+### Ex038 - Comparador de numeros
 
 Escreva um programa que leia dois numeros inteiros e compare-os, mostrando na tela uma mensagem:
 
@@ -195,7 +195,7 @@ Escreva um programa que leia dois numeros inteiros e compare-os, mostrando na te
 - O segundo valor é maior
 - Nao existe valor maior, os dois sao iguais
 
-### Ex039
+### Ex039 - Alistamento militar
 
 Faça um programa que leia o ano de nascimento de um jove e informa, de acordo com sua idade:
 
@@ -205,7 +205,7 @@ Faça um programa que leia o ano de nascimento de um jove e informa, de acordo c
 
 Seu programa tambem devera mostrar o tempo que falta ou que passou do prazo
 
-### Ex040
+### Ex040 - Status do aluno
 
 Crie um programa que eia duas notas de um aluno e calcule sua media, mostrando uma mensagem no final, de acordo com a media atingida:
 
@@ -213,7 +213,7 @@ Crie um programa que eia duas notas de um aluno e calcule sua media, mostrando u
 - Media entre 5.0 e 6.9: RECUPERACAO
 - Media 7.0 ou superior: APROVADO
 
-### Ex041
+### Ex041 - Categoria do Nadador
 
 A Confederaçao NAcional de Nataçao precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria de acordo com a idade:
 
@@ -223,7 +223,7 @@ A Confederaçao NAcional de Nataçao precisa de um programa que leia o ano de na
 - Até 20 anos: Senior
 - Acima: Master
 
-### Ex042
+### Ex042 - Da pra formar um triangulo? Se sim, de qual tipo?
 
 Refaça o desafio 035 dos triangulos, acrescentando o recurso de mostrar que tipo de triangulo será formado:
 
@@ -231,7 +231,7 @@ Refaça o desafio 035 dos triangulos, acrescentando o recurso de mostrar que tip
 - Isosceles: dois lados iguais
 - Escaleno: todos os lados diferentes
 
-### Ex043
+### Ex043 - Calculadora de IMC
 
 Desenvolva uma lógica que leia o peso e aaltura de uma pessoa, calcule o seu IMC e mostre seu status, de acordo com a tabela abaixo: 
 
@@ -241,7 +241,7 @@ Desenvolva uma lógica que leia o peso e aaltura de uma pessoa, calcule o seu IM
 - 30 até 40: Obesidade
 - Acima de 40: Obesidade mórbida
 
-### Ex044
+### Ex044 - Calculadora de desconto
 
 Elabore um programa que calcule o valor a ser pago por um produto, conksiderando o seu preco normal e condicao de pagamento:
 
@@ -250,6 +250,64 @@ Elabore um programa que calcule o valor a ser pago por um produto, conksiderando
 - em até 2x no cartao: preço normal
 - 3x ou mais no cartão: 20% de juros
 
-### Ex045
+### Ex045 - Jogo Jokenpo
 
 Crie um programa que faça o comptador jogar Jokenpo com voce
+
+### Ex046 - Contagem regressiva
+
+Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até zero, compausa de 1 segundo entre eles.
+
+### Ex047 - Numeros Pares de 1 a 50
+
+Crie um programa que mostre na tela todos os numeros pares de 1 a 50
+
+### Ex048 - Soma de impares ate 500
+
+Faça um programa que calcule a soma entre todos os numelros impares que sao multiplos de tres e que se encontram no intervalo de 1 ate 500
+
+### Ex049 - Tabuada 2.0
+
+Refaça o desafio 009, mostrando a tabuada de um numero que o usuario escolher, só que agora utilizando um laço for
+
+### Ex050 - Soma dos pares
+
+Desenvolva um programa que leia seis numeros inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for impar, desconsidere-o.
+
+### Ex051 - PA
+
+Desenvolva um programa que leio o primeiro termo e a razao de uma PA. No final, mostre os 10 primeiros termos dessa progressao
+
+### Ex052 - É primo?
+
+Faca um programa que leia um numero inteiro e diga se ele é ou nao um numero primo
+
+### Ex053 - Detector de Palindromo
+
+Crie um programa que leia uma frase qualquer e diga se ela é um palindromo, desconsiderando os espaços.
+
+Exemplos: Apos a sopa
+
+A sacada da casa
+
+A torre da derrota
+
+anotaram a data da maratona
+
+### Ex054 - Já é maior?
+
+Crie um programa que leia o ano de nascimento de 7 pessoas. No final, mostre quantasainda nao atingiram a maioridade e quantas já sao maiores (maioridade +21)
+
+### Ex055 - Mais pesado e mais leve
+
+Faça um programa que leia o peso de 5 pessoas e no final, mostre qual  foi o maior e o menor peso lidos
+
+### Ex056 - Estatisticas
+
+Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do prograa, mostre:
+
+A media de idade do grupo
+
+QUal é o nome do homem mais velho
+
+Quantas mulheres tem menos de 20 anos
