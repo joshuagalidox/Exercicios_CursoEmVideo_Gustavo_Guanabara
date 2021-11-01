@@ -1,0 +1,4 @@
+'''### Ex065 - Quer continuar?
+
+Crie um programa que leia varios numeros inteiros pelo teclado. No final da execuçao, mostyre a média entre todos os valores e qual foi o maior e o menor valores lidos. 
+O programa deve perguntar ao usuario se ele quer ou nao continuar a digitar valores'''

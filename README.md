@@ -311,3 +311,55 @@ A media de idade do grupo
 QUal é o nome do homem mais velho
 
 Quantas mulheres tem menos de 20 anos
+
+### Ex057 - Qual é o sexo?
+
+Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores 'M' e 'F'. Caso esteja errado, peça adigitação novamente até ter um valor correto.
+
+### Ex058 - Jogo da Advinhaçao V2.0
+
+Melhore o jogo do desafio 028 onde o computador vai 'pensar' em um numero entre 0 e 10. Só que agora o jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites foram necessários para vencer.
+
+### Ex059 - Menu de Opçoes
+
+Crie um programa que leia dois valores e mostre um menu na tela:
+
+[1] somar
+
+[2] multiplicar
+
+[3] maior
+
+[4] novos numeros
+
+[5] sair do programa
+
+Seu progrma deverá realizar a operação solicitada em cada caso.
+
+### Ex060 - Fatorial
+
+Faça um programa que leia um número qualquer e mostre seu fatorial.
+
+Ex.: 5! = 5x4x3x2x1 = 120
+
+### Ex061 - PA 2.0
+
+Refaça o desafio 051, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressao usando a esrutura while
+
+### Ex062 - PA 2.1
+
+Melhore o desafio 61, perguntando se ele quer mostrar mais alguns termos. O programa encessa quando ele disser que quer mostrar 0 termos
+
+### Ex063 - Sequancia de  Fibonacci
+
+Escreva um numero que leia um numero n inteiro qualquer e mostre na tela os n primeiros elementos de uma sequencia de Fibonacci.
+
+Ex.: 0 > 1 > 1 > 2 > 3 > 5 > 8 
+
+### Ex064 - Flag
+
+Crie um programa que leia varios numeros inteiros pelo teclado. O programa só vai parar quando o usuario digitar o valor 999, que é a condicao de parada. No final, mostre quantos numeros foram digitados equal foi a soma entre eles desconsiderando o flag
+
+### Ex065 - Quer continuar?
+
+Crie um programa que leia varios numeros inteiros pelo teclado. No final da execuçao, mostyre a média entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuario se ele quer ou nao continuar a digitar valores
