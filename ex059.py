@@ -11,10 +11,9 @@ Crie um programa que leia dois valores e mostre um menu na tela:
 Seu progrma deverá realizar a operação solicitada em cada caso.'''
 from time import sleep
 menu = 1
-
+n1 = int(input('Digite o primeiro número: '))
+n2 = int(input('Digite o segundo número: '))
 while not menu == 5:
-  n1 = int(input('Digite o primeiro número: '))
-  n2 = int(input('Digite o segundo número: '))
   menu = int(input('{}Escolha uma opção: {}[1] Somar {}[2] Multiplicar {}[3] Identificar o maior {}[4] Digitar novos valores {}[5] Sair do programa {}{}SUA OPÇÃO >>> '. format('\n', '\n', '\n', '\n', '\n', '\n', '\n', '\n')))
   if menu == 1:
     print('{}A soma de {} e {} é igual a: {}.'.format('\n', n1, n2, n1+n2))
@@ -29,6 +28,8 @@ while not menu == 5:
       print('{}Os valores digitados são iguais.'.format('\n'))
   elif menu == 4:
     print('{}Reiniciando...{}'.format('\n', '\n'))
+    n1 = int(input('Digite o primeiro número: '))
+    n2 = int(input('Digite o segundo número: '))
     sleep(0.50)
   elif menu == 5:
      print('{}<<< Fim da aplicação >>>{}'. format('\n', '\n'))
